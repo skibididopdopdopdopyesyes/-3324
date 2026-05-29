@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "killaura",
+  "version": "1.0.0",
+  "name": "KillAura",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.killaura.KillAuraMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "1.20.4"
+  }
+}
